@@ -113,7 +113,14 @@ choose "compute"
 
 ![Screenshot_162](https://github.com/user-attachments/assets/f525a19d-8c5c-4844-81a1-caf1dad27904)
 
-Error, something goes wrong...
+Result
+
+![Screenshot_283](https://github.com/user-attachments/assets/4e97a402-43af-4821-a2ee-d4267f9ae84d)
+
+https://github.com/user-attachments/assets/ab7a0307-0654-4842-a68c-0c06e552909e
+
+
+
 
 
 
